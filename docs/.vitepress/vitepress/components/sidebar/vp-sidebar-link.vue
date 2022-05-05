@@ -30,7 +30,7 @@ const route = useRoute()
       size="small"
       effect="plain"
       hit
-      style="border-radius: 9999px"
+      round
       >{{ item.promotion }}</ElTag
     >
   </a>
